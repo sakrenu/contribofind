@@ -22,3 +22,4 @@ frontend/.vercel/
 .env
 .env.*
 !.env.example
+!.env.local.example
